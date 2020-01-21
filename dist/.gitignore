@@ -3,3 +3,6 @@
 # Useful .gitignore templates: https://github.com/github/gitignore
 
 /credential.py
+
+# to ignore teh complete directory
+text/
